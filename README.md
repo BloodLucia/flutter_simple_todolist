@@ -1,5 +1,8 @@
 # flutter_todo
 
+## Preview
+<img decoding="async" src="https://i.328888.xyz/2023/01/12/lUVtc.png" width="50%"
+
 A new Flutter project.
 
 ## Getting Started
