@@ -1,8 +1,8 @@
 # flutter_todo
 
 ## Preview
-<img decoding="async" src="https://i.328888.xyz/2023/01/12/lUVtc.png" width="50%"
-
+[![Flutter Todo App](https://i.328888.xyz/2023/01/12/lUVtc.png "Flutter Todo App")](https://i.328888.xyz/2023/01/12/lUVtc.png)
+     
 A new Flutter project.
 
 ## Getting Started
