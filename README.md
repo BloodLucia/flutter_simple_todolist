@@ -1,7 +1,7 @@
 # flutter_todo
 
 ## Preview
-[![Flutter Todo App](https://i.328888.xyz/2023/01/12/lUVtc.png "Flutter Todo App")](https://i.328888.xyz/2023/01/12/lUVtc.png)
+[![Flutter Todo App](https://github.com/thecvcoder/flutter-todo-simple/blob/master/preview/Screenshot_20230112-003022.png "Flutter Todo App")](https://github.com/thecvcoder/flutter-todo-simple/blob/master/preview/Screenshot_20230112-003022.png)
      
 A new Flutter project.
 
